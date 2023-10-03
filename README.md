@@ -1,2 +1,2 @@
-# meujogo
-meu primeiro site
+# navinhas
+jogo das naves.
